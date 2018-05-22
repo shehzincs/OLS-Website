@@ -1,0 +1,17 @@
+
+@charset "UTF-8";
+/* CSS Document */
+.inner{
+	display: inline-block;
+}
+
+.mainbox{
+	width:100%;
+	height:20%;
+	background-color: #808080;
+
+}
+.column {
+     width:300px;
+     float:left
+}
